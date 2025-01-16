@@ -2,12 +2,12 @@
 
 const data = {
     name: "Faith Gabrielle",
-    bio: "Undergraduate Architectural Student at University of Calgary passionate about building tools to make homes more affordable.",
+    bio: "Design student at the Univerisity of Calgary.",
     contact: {
-        email: "john.doe@gmail.com",
-        phone: "+12345678910",
-        linkedin: "https://www.linkedin.com/",
-        github: "https://www.github.com/",
+        email: "ftmrtin27@gmail.com",
+        phone: "+4039296727",
+        linkedin: "NA",
+        github: "https://github.com/ftmrtin",
     }
 }
 

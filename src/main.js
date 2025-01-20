@@ -50,7 +50,11 @@ document.querySelector("#app").innerHTML = `
          </div>
       
          </div>
-          <h4 id="description">The Warriors: inspired by the 1979 film. This blends the gritty, action-packed narrative with theatrical grandeur.</h4>
+          <h4 id="description">The Warriors: inspired by the 1979 film. This blends the gritty, action-packed narrative with theatrical grandeur.
+          
+          Inspired by the 1979 cult classic The Warriors and the soundscape of the 2024 album Warriors, this Cadavre Exquis reimagines the narrative as a dark and electrifying stage musical.
+First and foremost, I am a theatre kid. From the moment I listened to the album, I was struck by how vividly the visuals of a potential play came to life in my mind. The soundtrack is so compelling that it feels destined to be physically realized on stage. A well-crafted album has the power to evoke imagery, and this one heightens the experience of every moment, especially fight scenes. Even without explicit descriptions, the instrumentals guide your imagination- each step, each punch, each impact resonated through the music.
+While I have never worked as part of a technical crew for a play, this album ignited a desire in me to stage a production. It’s a testament to the album’s immersive quality and its potential to inspire something theatrical.</h4>
         </div>
       </div>
 

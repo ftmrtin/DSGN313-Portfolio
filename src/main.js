@@ -29,7 +29,7 @@ document.querySelector("#app").innerHTML = `
 
         <div class="three-model">
            <a href="./src/CADAVRE-EXQUIS.jpg" target="_blank">
-             <img src="src/CADAVRE-EXQUIS.jpg" id="model1" alt="Model1 Image" />
+             <img src="./src/CADAVRE-EXQUIS.jpg" id="model1" alt="Model1 Image" />
            </a>
 
         </div>
